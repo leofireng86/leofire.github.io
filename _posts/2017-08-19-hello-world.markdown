@@ -3,7 +3,7 @@
 title:  "Hello World"
 date:   2017-08-19 01:00:00 +0800
 categories: about introduction
-published: false
+published: true
 ---
 "Hello World", the first two words to print when learning new programming languages.
 
