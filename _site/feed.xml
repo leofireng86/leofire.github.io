@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-03T14:31:35+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Playful Geek’s Den</title><subtitle></subtitle><author><name>Chong Soon (CS)</name></author><entry><title type="html">Hello World</title><link href="http://localhost:4000/about/introduction/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2017-08-19T01:00:00+08:00</published><updated>2017-08-19T01:00:00+08:00</updated><id>http://localhost:4000/about/introduction/hello-world</id><content type="html" xml:base="http://localhost:4000/about/introduction/hello-world/">&lt;p&gt;“Hello World”, the first two words to print when learning new programming languages.&lt;/p&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;//C#&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;Console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;WriteLine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World!!!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Welcome to my first blog post! I am a tech geek and gamer. I would be sharing my thoughts related to technology and games in this blog. If possible, I would also be using this blog to showcase some of my coding experiments.&lt;/p&gt;
+
+&lt;p&gt;I had a Github account for quite a while but never used it until now. I would be using it to store some of my projects. Lately, I am quite interested in Javascript. I am currently following some course online relating to Javascript Design Patterns.&lt;/p&gt;
+
+&lt;p&gt;Anyways, I will be off dabbling. Will be back real soon.&lt;/p&gt;</content><author><name>Chong Soon (CS)</name></author><summary type="html">“Hello World”, the first two words to print when learning new programming languages.</summary></entry></feed>
